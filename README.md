@@ -1,1 +1,3 @@
-# Starter-Template-Sidemenu
+# Ionic TestApp
+
+Display various ionic components
